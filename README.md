@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamwaiyanminhtet&show_icons=true&locale=en&layout=compact" alt="iamwaiyanminhtet" /></p>
 <!--
 **iamwaiyanminhtet/iamwaiyanminhtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamwaiyanminhtet&show_icons=true&locale=en&layout=compact" alt="iamwaiyanminhtet" /></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
