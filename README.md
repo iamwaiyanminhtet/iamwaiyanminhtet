@@ -1,5 +1,6 @@
 ### Hello there 👋
 
+I have previously learned some parts of web development, but I took a break for about a year to focus on GED and IELTS. Now that I’m thankfully in uni, I will be relearning all and also clean up my messy codes along the way (hopefully :} )
 <!--
 **iamwaiyanminhtet/iamwaiyanminhtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
